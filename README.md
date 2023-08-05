@@ -1,2 +1,2 @@
-# wed-ad
+# web-ad
 HTML CSS And JAVASCRIPT
